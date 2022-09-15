@@ -109,6 +109,17 @@ em {
     flex-basis: 50%;
   }
 }
+
+.about-tag {
+  display: inline-block;
+  vertical-align: top;
+  font-size: 1.07143rem;
+  margin-right: 28px;
+}
+.about-section-content {
+  flex-basis: 100%;
+}
+
   .about-software-item {
     display: -webkit-box;
     display: -ms-flexbox;
